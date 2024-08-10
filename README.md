@@ -1,6 +1,6 @@
 # PowerBi-projects
 
-### Business Intelligence and Data Analysis Project with Power BI | August 2024**
+### Business Intelligence and Data Analysis Project with Power BI | August 2024
 
 This project involved the use of Microsoft Power BI to perform data analysis, visualization, and business intelligence tasks over a 22-hour period.
 
