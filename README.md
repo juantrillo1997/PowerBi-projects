@@ -1,4 +1,4 @@
-#Power BI Projects Portfolio
+# Power BI Projects Portfolio
 
 Welcome to my portfolio showcasing Business Intelligence and Data Analysis projects using Power BI. Below, you will find interactive dashboards that highlight my work in transforming complex datasets into insightful visualizations. Each project focuses on different aspects of data analysis, ranging from sales performance to customer insights, demonstrating my proficiency in leveraging Power BI to drive business decisions.
 
